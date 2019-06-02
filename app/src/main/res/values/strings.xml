@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="action_settings">Settings</string>
+
+    <string-array name="tone_array">
+        <item>Select Tone</item>
+        <item>Tone-1</item>
+        <item>Tone-2</item>
+        <item>Tone-3</item>
+        <item>Tone-4</item>
+        <item>Tone-5</item>
+    </string-array>
 </resources>
